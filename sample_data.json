@@ -1,0 +1,12 @@
+[
+  {"id": 101, "customer": "  олена коваль ", "total": 2450.00, "status": "PAID", "city": "львів"},
+  {"id": 102, "customer": "Тарас Мельник", "total": 780.50, "status": "new", "city": "Київ"},
+  {"id": 103, "customer": "ірина бондар", "total": 3120.00, "status": "delivered", "city": "ужгород"},
+  {"id": 104, "customer": "Андрій Шевчук ", "total": 1999.99, "status": "shipped", "city": "Львів"},
+  {"id": 105, "customer": "марта ткачук", "total": 560.00, "status": "cancelled", "city": "Одеса"},
+  {"id": 106, "customer": "Богдан Лисенко", "total": 2450.00, "status": "paid", "city": "Київ"},
+  {"id": 107, "customer": "софія гнатюк", "total": 1340.00, "status": "Paid", "city": "чернівці"},
+  {"id": 108, "customer": "Дмитро Кравець", "total": 4100.00, "status": "refunded", "city": "Харків"},
+  {"id": 109, "customer": "  наталія руденко", "total": 2205.00, "status": "delivered", "city": "Луцьк"},
+  {"id": 110, "customer": "Максим Ющенко", "total": 990.00, "status": "paid", "city": "Дніпро"}
+]
